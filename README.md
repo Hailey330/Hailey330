@@ -22,7 +22,7 @@ I'm Minkyung Choi, a passionate frontend developer 🔥
 
 <br/>
 
-<h3 align="center"> Stats </h3>
+<h3 align="center"> Stats ✨ </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hailey330&show_icons=true&theme=buefy" />
 </div>
