@@ -31,8 +31,7 @@ I'm Minkyung Choi, a passionate frontend developer 🔥
 <br/>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF9436&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/>
-<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHailey330&count_bg=%23C4B7FF&title_bg=%23C4B7FF&icon=awesomelists.svg&icon_color=%239A58D0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com" /> -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHailey330&count_bg=%23FF9436&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/>
 </div>
 
 <br/>
