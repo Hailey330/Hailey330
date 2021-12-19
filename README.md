@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Hailey%20Choi();&fontSize=70&fontColor=ff9436&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Hailey%20Choi();&fontSize=70&fontColor=ff9436)
   <h4 align="center">👋 Hi there!</h4>
 
 <p align="center">
