@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=hailey%20choi();&fontAlign=68&fontAlignY=37&fontSize=70&rotate=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Hailey%20Choi();&fontSize=70&fontColor=ff9436&fontAlign=60)
   <h4 align="center">👋 Hi there!</h4>
 
 <p align="center">
@@ -24,15 +24,19 @@ I'm Minkyung Choi, a passionate frontend developer 🔥
 
 <h3 align="center"> Stats ✨ </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hailey330&show_icons=true&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hailey330&show_icons=true&theme=darcula" />
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHailey330&count_bg=%23C4B7FF&title_bg=%23C4B7FF&icon=awesomelists.svg&icon_color=%239A58D0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF9436&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/>
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHailey330&count_bg=%23C4B7FF&title_bg=%23C4B7FF&icon=awesomelists.svg&icon_color=%239A58D0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com" /> -->
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
+<br/>
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=ff9436&height=300&section=footer)
 
